@@ -1,0 +1,3 @@
+package aeronet;
+
+@license(LGPL);
